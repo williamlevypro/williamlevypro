@@ -43,8 +43,8 @@ I'm a dedicated blockchain developer specializing in Solana and Bitcoin. I thriv
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />
 </p>
 
-### 📈 GitHub Stats
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamlevypro&show_icons=true&theme=radical)
+<!-- ### 📈 GitHub Stats
+![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamlevypro&show_icons=true&theme=radical) -->
 
 ### 📫 Connect with Me
 <p align="left">
