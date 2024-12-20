@@ -16,7 +16,6 @@ I'm a dedicated blockchain developer specializing in Solana and Bitcoin. I thriv
 - 🌱 I’m currently exploring new advancements in blockchain technology.
 - 👯 I’m looking to collaborate on decentralized applications.
 - 💬 Ask me about anything related to Solana and Bitcoin.
-- 📫 How to reach me: williamlevypro@example.com
 - ⚡ Fun fact: I enjoy diving into cryptographic algorithms and consensus mechanisms.
 
 ### 🛠️ Technologies and Tools
